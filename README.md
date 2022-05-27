@@ -22,12 +22,16 @@ I'm Mahmoud from Egypt, and I do content on data science, analysis, and Developm
     </a>
     <br />
     <br /> -->
- Skills: Python / Java/ sklearn / Analysis / [Design Pattern](https://github.com/mahmoudsaeed99/DesignPatterns)
+  <p align="center">
+      Skills: Python / Java/ sklearn / Analysis / [Design Pattern](https://github.com/mahmoudsaeed99/DesignPatterns)
+   </p>
  <br />
-    <br /
+    <br />
+    <p align="center">
  ![mahmoudsaeed99's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudsaeed99&show_icons=true&theme=radical)
-
-  </p>
+</p>
+<br />
+<!--   </p> -->
 
 
 
