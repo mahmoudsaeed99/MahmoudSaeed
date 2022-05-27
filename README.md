@@ -7,7 +7,7 @@
 
 I'm Mahmoud from Egypt, and I do content on data science, analysis, and Development SoftWare. I'm Interested in learning more and more in the data science field by learning python and machine learning with python and learning software concepts to help me improve my skills in development as a programmer I use java and python languages to practice in software.
 
-Skills: Python / Java/ sklearn / Analysis / ![Design Pattern](https://github.com/mahmoudsaeed99/DesignPatterns) 
+Skills: Python / Java/ sklearn / Analysis / [Design Pattern](https://github.com/mahmoudsaeed99/DesignPatterns) 
 
 
 
