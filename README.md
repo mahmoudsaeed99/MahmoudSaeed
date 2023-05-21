@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, my name is Mahmoud Saeed
-#### I am a Data scientist and SoftWare Engineer
+#### I am interested in the data field and software engineer
 
 I'm Mahmoud from Egypt, and I do content on data science, analysis, and Development SoftWare. I'm Interested in learning more and more in the data science field by learning python and machine learning with python and learning software concepts to help me improve my skills in development as a programmer I use java and python languages to practice software.
   
