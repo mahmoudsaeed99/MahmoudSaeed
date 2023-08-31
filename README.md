@@ -10,19 +10,15 @@ I'm Interested in learning more and more in the data science field by learning P
 I use Java and Python languages to practice software.
   <br />
     <br />
-    
 
-    
- <br />
-    <br />
     
  Skills: Python / Java/ [sklearn](https://www.kaggle.com/code/mahmoudsaeed99/predict-using-different-models-for-beginners) / Analysis / [Design Pattern](https://github.com/mahmoudsaeed99/DesignPatterns) / ETL / Dataware house / oop / Data Modeling / Machine Learning 
 
  <br />
     <br />
     
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
  
 <br />
 <br />
