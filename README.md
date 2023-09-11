@@ -17,7 +17,7 @@
 
 
 ### Hi there 👋, my name is Mahmoud Saeed
-#### I am interested in the data field and software engineer
+#### I am interested in the fields of data and software.
 
 I'm Mahmoud from Egypt, and I do content on data science, analysis, and Software Development.
 I'm Interested in learning more and more in the data science field by learning Python, machine learning, and software concepts to help me improve my skills in development as a programmer 
